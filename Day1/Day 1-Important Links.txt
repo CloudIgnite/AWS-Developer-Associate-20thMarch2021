@@ -83,7 +83,4 @@ IAM root user : https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.ht
 IAM LAB : https://aws.amazon.com/premiumsupport/knowledge-center/cross-account-access-iam/
           https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_cross-account-with-roles.html
 
-Task 1 : Create Ec2 and fetch data from S3
-         https://aws.amazon.com/premiumsupport/knowledge-center/ec2-instance-access-s3-bucket/
-
                   
